@@ -10,7 +10,7 @@
 
 ## 🔐 How to use
 
-• **Go ond Discord and press CTRL + SHIFT + I and paste the Script in the console.**
+• **Go to Discord and press CTRL + SHIFT + I and paste the script into the console but before submitting it CHANGE THE TOKEN.**
 
 ```js
 let token = "your token";
